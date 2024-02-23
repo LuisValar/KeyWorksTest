@@ -1,0 +1,6 @@
+@KeyWorksStreamberry_HostAddress = http://localhost:5231
+
+GET {{KeyWorksStreamberry_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
